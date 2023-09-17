@@ -1,4 +1,5 @@
-### Hi there 👋
+
+#### <a href="https://www.buymeacoffee.com/cristiansfetcu" target="_blank">:coffee: Buy me a coffee</a>
 
 <!--
 **freewill777/freewill777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
